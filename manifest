@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.1
+apiversion: 2
+description: Cryptor
+author: Rob Napier
+license: Commercial
+copyright: Copyright (c) 2012 by Rob Napier
+
+
+# these should not be edited
+name: cryptor
+moduleid: net.robnapier.cryptor
+guid: 20da52ab-0862-4604-8bdc-5887b2a3aa5a
+platform: iphone
+minsdk: 1.8.2
